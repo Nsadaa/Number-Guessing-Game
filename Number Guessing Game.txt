@@ -1,0 +1,14 @@
+- This is a number guessing game which develop through python
+- So its generate a randome number . if we able to guess the number within 3 attempts we 
+  will win the game.
+- also we provide some small hints in every time we miss the number so its very cool game !
+
+- In here we use :
+	         1. Random module
+	         2. String functions
+	         3. Functions
+	         4. If statments
+	         5. Loops
+
+Lets Enjoy ! ...... 
+
